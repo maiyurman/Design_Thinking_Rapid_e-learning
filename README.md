@@ -2,4 +2,4 @@
 הפרויקט בוצע במסגרת תואר ראשון לטכנולוגיות למידה שנה ב
 פותח במהלך קורס "למידה מתוקשבת" בשיתוף מאי פולג
 לצפייה בפרוייקט לחצו על הקישור:
-https://rise.articulate.com/share/CtP1WX3d3rYeSCM83Ip2WTrTnBqmWepp#/ 
+https://rise.articulate.com/share/CtP1WX3d3rYeSCM83Ip2WTrTnBqmWepp
